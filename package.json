@@ -1,0 +1,19 @@
+{
+  "name": "instagram-bot",
+  "version": "1.0.0",
+  "description": "Собирать базу данных юзеров по заданному хештегу",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freecodecamp-spb/InstagramBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freecodecamp-spb/InstagramBot/issues"
+  },
+  "homepage": "https://github.com/freecodecamp-spb/InstagramBot#readme"
+}
